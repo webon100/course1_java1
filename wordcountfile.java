@@ -26,8 +26,7 @@ public class wordcountfile {
  
         try { 
             // Opening file 
-            //BufferedReader in = new BufferedReader(new FileReader("c:/rawtext01.txt"));
-            BufferedReader in = new BufferedReader(new FileReader("C:/Users/ross.bai/Documents/NetBeansProjects/Javatest2015-100/src/javatest2015/pkg100/wordcounttext.txt"));
+            BufferedReader in = new BufferedReader(new FileReader("c:/rawtext01.txt"));
             // string buffer for file reading   
             String str;
  
